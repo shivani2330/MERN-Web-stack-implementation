@@ -1,0 +1,28 @@
+MERN 
+
+M - MongoDB  -- A document based no sql db , to store data in document form
+E - ExpressJs -- Server side web application for nodejs
+R - ReacJs -- Frontend
+N - Nodejs -- Javascript runtime environment . Used to run javascript on machine rather than on browser . 
+
+JavaScript is a language created to make HTML pages more interactive, while being easy to program with.
+E.g. to check if a user’s input in a text field is valid.
+
+It’s even used for server-side programming, i.e. back-end development. 
+To do so, you often need to run programs using the console. 
+Since JavaScript was only run by the browser in HTML documents, Node.js was created.
+
+Node.js allows you to write programs in JavaScript which can be run outside the browser.
+
+Different types of DB : 
+
+
+RDBMS : RElational DB is a DB where the data is organized in tables
+
+        Structed : IRCTC, University 
+
+System where we cna perform CRUD operations. 
+
+Unstructured : There is no predefined structure
+               Video , photo
+               Web pages
