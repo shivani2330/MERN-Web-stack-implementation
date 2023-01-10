@@ -1,0 +1,12 @@
+sudo npm install express
+
+touch index.js
+
+sudo npm install dotenv
+
+https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/
+
+Open port 5000 inbound rule to allow traffic into the server
+
+
+
