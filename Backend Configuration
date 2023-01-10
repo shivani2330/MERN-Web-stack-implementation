@@ -1,0 +1,23 @@
+sudo apt-get update
+
+sudo apt upgrade
+
+
+//gets the location of nodejs in ubuntu
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+
+install nodejs
+
+sudo apt-get install -y nodejs
+
+The command above installs both nodejs and npm. 
+NPM is a package manager for Node like apt for Ubuntu, it is used to install Node modules & packages and to manage dependency conflicts.
+
+Next, you will use the command npm init to initialise your project, so that a new file named package.json will be created. 
+This file will normally contain information about your application and the dependencies that it needs to run.
+Follow the prompts after running the command.
+You can press Enter several times to accept default values, then accept to write out the package.json file by typing yes.
+
+npm update -g
+npm init
+
