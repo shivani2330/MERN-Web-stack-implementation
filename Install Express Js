@@ -1,5 +1,7 @@
 sudo npm install express
 
+sudo npm install express --save
+
 touch index.js
 
 sudo npm install dotenv
