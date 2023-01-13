@@ -1,0 +1,11 @@
+To start out with the frontend of the To-do app, we will use the create-react-app command to scaffold our app.
+
+In the same root directory as your backend code, which is the Todo directory, run:
+
+npx create-react-app client
+
+This will create a new folder in your Todo directory called client, where you will add all the react code.
+
+npm install concurrently --save-dev
+npm install nodemon --save-dev
+
